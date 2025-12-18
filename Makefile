@@ -11,7 +11,7 @@ PROGSRC	=	prog/heat2d-disk-e.c prog/heat2d-disk-i.c \
 default: all
 all: $(PROGS) $(FILES)
 
-heat-fdm-2.dvi: heat-fdm-2.tex ../reference/reference.tex $(PROGSRC)
+heat-fdm-2.dvi: heat-fdm-2.tex reference.bib $(PROGSRC)
 	platex heat-fdm-2.tex
 	-mendex heat-fdm-2
 	pbibtex heat-fdm-2
