@@ -29,4 +29,4 @@ heat-fdm-2-prog.tar.gz:
 	rm -rf heat-fdm-2-prog
 	mkdir heat-fdm-2-prog
 	cp -p prog/* heat-fdm-2-prog
-	gtar cfz $@ heat-fdm-2-prog
+	tar cfz $@ heat-fdm-2-prog
