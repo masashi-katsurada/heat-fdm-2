@@ -21,7 +21,7 @@ prog/*
 !prog/heat2d-disk-e.c
 !prog/testptrilu.m
 !prog/heat2d-disk-i.c
-ikeya-prog/
+ikeya-prog/*
 !ikeya-prog/heat2d-i-en3-mk.c
 !ikeya-prog/bandlu.c
 fdm-in-disk.tar.gz
