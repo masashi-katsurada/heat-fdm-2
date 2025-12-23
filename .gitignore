@@ -5,10 +5,10 @@
 heat-fdm-2/
 add/
 old/
-Bessel/
+Bessel/*
 !Bessel/draw-Bessel-glsc.c
 !Bessel/BesselJY0.eps
-prog/
+prog/*
 !prog/find_Bessel_roots.c
 !prog/find_Bessel_roots.out
 !prog/testptrilu.out
