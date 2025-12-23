@@ -21,13 +21,15 @@ prog/*
 !prog/heat2d-disk-e.c
 !prog/testptrilu.m
 !prog/heat2d-disk-i.c
+
 ikeya-prog/*
 !ikeya-prog/heat2d-i-en3-mk.c
 !ikeya-prog/bandlu.c
-fdm-in-disk.tar.gz
-fdm-in-disk/
+
 heat-fdm-2-prog.tar.gz
 heat-fdm-2-prog/
+fdm-in-disk.tar.gz
+fdm-in-disk/
 matlab-prog/
 
 # LaTeX の諸々
